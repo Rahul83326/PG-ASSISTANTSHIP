@@ -1,0 +1,188 @@
+{
+  "university_login": [
+    {
+      "code": "2023",
+      "password": "12345"
+    }
+  ],
+  "admin_login": [
+    {
+      "code": "2022",
+      "password": "12345"
+    }
+  ],
+  "act_chennai": [
+    {
+      "code": "0002",
+      "password": "12345"
+    }
+  ],
+  "alagapa": [
+    {
+      "code": "5901",
+      "password": "12345"
+    }
+  ],
+  "anna_university_coimbatore": [
+    {
+      "code": "2025",
+      "password": "12345"
+    }
+  ],
+  "anna_university_madurai": [
+    {
+      "code": "5010",
+      "password": "12345"
+    }
+  ],
+  "anna_university_tirunelveli": [
+    {
+      "code": "4020",
+      "password": "12345"
+    }
+  ],
+  "ceg_guindy": [
+    {
+      "code": "0001",
+      "password": "12345"
+    }
+  ],
+  "cit_coimbatore": [
+    {
+      "code": "2007",
+      "password": "12345"
+    }
+  ],
+  "gce_bargur": [
+    {
+      "code": "2603",
+      "password": "12345"
+    }
+  ],
+  "gce_erode": [
+    {
+      "code": "2709",
+      "password": "12345"
+    }
+  ],
+  "gce_salem": [
+    {
+      "code": "2615",
+      "password": "12345"
+    }
+  ],
+  "gce_tirunelveli": [
+    {
+      "code": "4974",
+      "password": "12345"
+    }
+  ],
+  "gct_coimbatore": [
+    {
+      "code": "2005",
+      "password": "12345"
+    }
+  ],
+  "mit_chennai": [
+    {
+      "code": "0004",
+      "password": "12345"
+    }
+  ],
+  "periyar_vellor": [
+    {
+      "code": "1516",
+      "password": "12345"
+    }
+  ],
+  "psg_coimbatore": [
+    {
+      "code": "2006",
+      "password": "12345"
+    }
+  ],
+  "thiagarajar_madurai": [
+    {
+      "code": "5008",
+      "password": "12345"
+    }
+  ],
+  "university_ariyalur": [
+    {
+      "code": "3016",
+      "password": "12345"
+    }
+  ],
+  "university_dindigul": [
+    {
+      "code": "5022",
+      "password": "12345"
+    }
+  ],
+  "university_kanchepuram": [
+    {
+      "code": "1026",
+      "password": "12345"
+    }
+  ],
+  "university_nagercoil": [
+    {
+      "code": "4023",
+      "password": "12345"
+    }
+  ],
+  "university_panruti": [
+    {
+      "code": "3019",
+      "password": "12345"
+    }
+  ],
+  "university_pattukodai": [
+    {
+      "code": "3021",
+      "password": "12345"
+    }
+  ],
+  "university_ramanathapuram": [
+    {
+      "code": "5017",
+      "password": "12345"
+    }
+  ],
+  "university_thindivanam": [
+    {
+      "code": "1014",
+      "password": "12345"
+    }
+  ],
+  "university_thiruchirappali": [
+    {
+      "code": "3011",
+      "password": "12345"
+    }
+  ],
+  "university_thirukkuvalai": [
+    {
+      "code": "3018",
+      "password": "12345"
+    }
+  ],
+  "university_thiruvannamalai": [
+    {
+      "code": "1015",
+      "password": "12345"
+    }
+  ],
+  "university_thoothukudi": [
+    {
+      "code": "4042",
+      "password": "12345"
+    }
+  ],
+  "university_villupuram": [
+    {
+      "code": "1013",
+      "password": "12345"
+    }
+  ]
+}
