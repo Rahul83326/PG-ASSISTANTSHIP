@@ -1,0 +1,31 @@
+.navbar_1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    /* background-image: linear-gradient(to right, rgb(179, 231, 163), rgb(137, 231, 116)); */
+}
+
+.time_zone {
+    display: block;
+    position: absolute;
+    margin-left: right;
+}
+
+.child {
+    font-size: 20px;
+    padding-left: 35px;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
+span {
+    margin-top: 18px;
+}
